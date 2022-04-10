@@ -1,7 +1,7 @@
 /* CSS for Business Card */
 
 html{
-	background-image: url(bgnature.jpeg);
+	background-image: url(bgleaves.jpeg);
 	overflow: none;
 	background-size: cover;
 	display: inline-block;
@@ -38,20 +38,20 @@ html{
 
 #email{
 	text-decoration: none;
-	color: #e08283;
+	color: #333f25;
 }
 
 #email:hover{
 	text-decoration: none;
-	color: #89c4f4;
+	color: #a8aa50;
 }
 
 .link{
 	text-decoration: none;
-	color: #e08283;
+	color: #333f25;
 }
 
 .link:hover{
 	text-decoration: none;
-	color: #89c4f4;
+	color: #a8aa50;
 }
